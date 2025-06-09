@@ -14,8 +14,8 @@
   "project": {
     "github_org": "naponigore",
     "is_private": false,
-    "title": "6/5/2025",
-    "description": "Portraying war in films.",
+    "title": "War Films: Heroism vs Realism",
+    "description": "Do anti-war films exist? ",
     "language": "en",
     "slug": "film",
     "creator": "naponigore",
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2025-06-06T02:57:41.604Z",
-    "updated_at": "2025-06-06T02:57:41.604Z",
+    "updated_at": "2025-06-09T02:29:41.518Z",
     "generate_pages_site": true
   },
   "annotations": {},
